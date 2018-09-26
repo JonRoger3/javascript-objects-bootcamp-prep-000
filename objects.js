@@ -3,6 +3,9 @@ var playlist = {architects : "Doomsday", bmth : "Mantra", pixies : "Where Is My 
 function updatePlaylist(obj, name, title){
   
   obj[name] = title;
-  return 
+  return obj;
   
 }
+
+
+updatePlaylist()
