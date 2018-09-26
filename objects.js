@@ -11,7 +11,12 @@ function updatePlaylist(obj, name, title){
 updatePlaylist(playlist, nirvana, "Poly");
 
 
-function removeFromPLaylist(obj, name){
+function removeFromPlaylist(obj, name){
   
-  delete
+  delete obj.name;
+  return obj;
+  
 }
+
+
+removeFromPlayList(playlist, )
