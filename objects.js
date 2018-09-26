@@ -19,4 +19,4 @@ function removeFromPlaylist(obj, name){
 }
 
 
-removeFromPlayList(playlist, nirvana);
+removeFromPlayList(playlist, bmth);
