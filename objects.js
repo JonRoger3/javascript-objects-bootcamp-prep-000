@@ -13,5 +13,5 @@ updatePlaylist(playlist, nirvana, "Poly");
 
 function removeFromPLaylist(obj, name){
   
-  
+  delete
 }
