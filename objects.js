@@ -8,4 +8,10 @@ function updatePlaylist(obj, name, title){
 }
 
 
-updatePlaylist()
+updatePlaylist(playlist, nirvana, "Poly");
+
+
+function removeFromPLaylist(obj, name){
+  
+  
+}
