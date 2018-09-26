@@ -13,7 +13,7 @@ updatePlaylist(playlist, 'Phil Ochs', 'Heres to the State of Mississippi');
 
 function removeFromPlaylist(obj, name){
   
-  delete obj.name;
+  delete obj[name];
   return obj;
   
 }
