@@ -19,4 +19,4 @@ function removeFromPlaylist(obj, name){
 }
 
 
-removeFromPlayList(playlist, bmth);
+removeFromPlayList(playlist, 'SlowDive');
